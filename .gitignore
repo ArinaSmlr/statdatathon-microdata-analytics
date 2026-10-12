@@ -1,0 +1,9 @@
+# Игнорировать абсолютно все файлы и папки
+*
+
+# Но НЕ игнорировать файл .gitignore
+!.gitignore
+
+# Исключения: файлы, которые ДОЛЖНЫ быть видны на GitHub
+!InsightX_Data_to_Policy_final.ipynb
+!README.md
